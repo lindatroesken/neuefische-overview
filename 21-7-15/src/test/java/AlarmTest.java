@@ -7,10 +7,10 @@ class AlarmTest {
 
 
     @Test
-    @DisplayName("Thread level RED never allows more people")
+    @DisplayName("Threat level RED never allows anyone")
     public void testAlarmRedToMuch(){
         // GIVEN
-        int numberOfPeople = 1;
+        int numberOfPeople = 10;
         String alarmLevel = "red";
         // WHEN
         String actual = Alarm.storeAlarm(alarmLevel, numberOfPeople);
@@ -19,6 +19,7 @@ class AlarmTest {
     }
 
     @Test
+    @DisplayName("Threat level yellow allows up to 30 people")
     public void testAlarmYellowOK(){
         // GIVEN
         int person = 30;
@@ -29,6 +30,7 @@ class AlarmTest {
         assertEquals("Maximale Personenzahl nicht überschritten", actual);
     }
     @Test
+    @DisplayName("Threat level green does not allow more than 60 people")
     public void testAlarmGreenToMuch(){
         // GIVEN
         int person = 70;
