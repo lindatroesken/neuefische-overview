@@ -19,6 +19,6 @@ But all the work is redone in this repository, to practice again and to have all
 
 # Beispiele
 
-[Mo, 28.07.2021 - Order DB, Freitagsaufgabe](https://github.com/christophersiem/java-21-3-orderdb)
-[Di, 29.07.2021 - Student DB - Spring](https://github.com/jamarob/java-21-3-studentdb-web)
-[Mi, 28.07.2021 - Orders with Server](https://github.com/christophersiem/java-21-3-orderdb-server)
+- [Mo, 28.07.2021 - Order DB, Freitagsaufgabe](https://github.com/christophersiem/java-21-3-orderdb)
+- [Di, 29.07.2021 - Student DB - Spring](https://github.com/jamarob/java-21-3-studentdb-web)
+- [Mi, 28.07.2021 - Orders with Server](https://github.com/christophersiem/java-21-3-orderdb-server)
