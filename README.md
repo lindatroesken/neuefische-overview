@@ -26,6 +26,8 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Mo, 26.07.2021] - Webanwendungen, HTTP, Spring
 - [Di, 27.07.2021] - Postman, Services, HTTP Statuscodes, HTTP Status Exceptions
 - [Mi, 28.07.2021] - Mockito, Integration Tests
+- [Mi, 28.07.2021] - Mockito, Integration Tests
+- [Do, 29.07.2021] - Generics, Enums, Streams
 
 # Beispiele
 - [Do, 15.07.2021 - Control Flow](https://github.com/jamarob/java-21-3-control-flow)
