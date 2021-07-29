@@ -1,9 +1,12 @@
 # neuefische-practices
 
-This repo contains the practices from neuefische bootcamp.
+This repo contains the practices from neuefische bootcamp and gives an overview over topics and links to related projects.
 The bootcamp is a **fullstack web development course with java**.
 Most practices are done in small groups and the work is done in different repositories. 
-But all the work is redone in this repository, to practice again and to have all code in one repo.
+Some work is redone in this repository, to practice again and to have all code in one repo. Some other group-projects are linked in this README, as well as some excample-projects from teh course.
+
+# Presentation slides:
+[overview](https://neuefische.github.io/java-slides/)
 
 ## First Week
 - Monday, 12.07.2021 - macOS, Shell basics, Git intro
@@ -25,8 +28,11 @@ But all the work is redone in this repository, to practice again and to have all
 - [Mi, 28.07.2021] - Mockito, Integration Tests
 
 # Beispiele
-- [Mi, 21.07.2021](https://github.com/jamarob/java-21-3-linked-list)
-- [mehrere Tage](https://github.com/slautner/rem-21-3)
+- [Do, 15.07.2021 - Control Flow](https://github.com/jamarob/java-21-3-control-flow)
+- [Mo, 19.07.2021 - Passwordvalidation](https://github.com/jamarob/java-21-3-password-validation)
+- [Mo, 19.07.2021 - Classes and Objects](https://github.com/christophersiem/java-21-3-classes-objects)
+- [Di, 20.07.2021 und dann immer wieder - ](https://github.com/slautner/rem-21-3)
+- [Mi, 21.07.2021 - Linked List](https://github.com/jamarob/java-21-3-linked-list)
 - [Mo, 28.07.2021 - Order DB, Freitagsaufgabe](https://github.com/christophersiem/java-21-3-orderdb)
 - [Di, 29.07.2021 - Student DB - Spring](https://github.com/jamarob/java-21-3-studentdb-web)
 - [Mi, 28.07.2021 - Orders with Server](https://github.com/christophersiem/java-21-3-orderdb-server)
@@ -35,4 +41,6 @@ But all the work is redone in this repository, to practice again and to have all
 # Gruppenübungen
 - ...
 - [Integration Tests & Unit Test with Mockito, 29.7.21](https://github.com/lindatroesken/java-21-3-orderdb-server)(Adriana, Tobi, Sebastian, Linda)
+- [Enums in Alarm, 29.7.2021]
 - [Generics in LinkedList, 29.7.21](https://github.com/lindatroesken/generics-linked-list)(Adriana, Drazen, Guillermo)
+- [Streams in OrderDB, 29.07.2021]()(Adriana, Drazen, Guillermo)
