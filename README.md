@@ -34,4 +34,5 @@ But all the work is redone in this repository, to practice again and to have all
 
 # Gruppenübungen
 - ...
-- [Integration Tests & Unit Test with Mockito](https://github.com/lindatroesken/java-21-3-orderdb-server)(Adriana, Tobi, Sebastian, Linda)
+- [Integration Tests & Unit Test with Mockito, 29.7.21](https://github.com/lindatroesken/java-21-3-orderdb-server)(Adriana, Tobi, Sebastian, Linda)
+- [Generics in LinkedList, 29.7.21](https://github.com/lindatroesken/generics-linked-list)(Adriana, Drazen, Guillermo)
