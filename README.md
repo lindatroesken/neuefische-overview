@@ -13,7 +13,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Tuesday, 13.07.2021](/21-7-13) - first small java program
 - [Wednesday, 14.07.2021](/21-7-14-maven-test-repo/my-app) - maven project structure
 - [Thursday, 15.07.2021](/21-7-15) - first own maven project with junit tests
-- [Friday, 16.07.2021]() - weekly task: password validation
+- [Friday, 16.07.2021]() - weekly practice: password validation
 
 ## Second Week
 - [Monday, 19.07.2021](/21-7-19) - Classes, Objects, Getter, Setter, Override Methods
@@ -28,6 +28,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Mi, 28.07.2021] - Mockito, Integration Tests
 - [Mi, 28.07.2021] - Mockito, Integration Tests
 - [Do, 29.07.2021] - Generics, Enums, Streams
+- [Fr, 30.07.2021] - weekly practice: backend for todo
 
 # Beispiele
 - [Do, 15.07.2021 - Control Flow](https://github.com/jamarob/java-21-3-control-flow)
@@ -38,6 +39,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Mo, 28.07.2021 - Order DB, Freitagsaufgabe](https://github.com/christophersiem/java-21-3-orderdb)
 - [Di, 29.07.2021 - Student DB - Spring](https://github.com/jamarob/java-21-3-studentdb-web)
 - [Mi, 28.07.2021 - Orders with Server](https://github.com/christophersiem/java-21-3-orderdb-server)
+- [Mo, 02.08.2021 - ToDo Backend, Freitagsaufgabe]()
 
 
 # Gruppenübungen
@@ -45,4 +47,5 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Integration Tests & Unit Test with Mockito, 29.7.21](https://github.com/lindatroesken/java-21-3-orderdb-server)(Adriana, Tobi, Sebastian, Linda)
 - [Enums in Alarm, 29.7.2021]
 - [Generics in LinkedList, 29.7.21](https://github.com/lindatroesken/generics-linked-list)(Adriana, Drazen, Guillermo)
-- [Streams in OrderDB, 29.07.2021]()(Adriana, Drazen, Guillermo)
+- [Streams in OrderDB, 29.07.2021]()(Adriana, Drazen, Guillermo, Linda)
+- [ToDo Backend](https://github.com/Droggelbecher92/todo-app/tree/backendDev)(Tobias & Thomas & Sebastian & Linda)
