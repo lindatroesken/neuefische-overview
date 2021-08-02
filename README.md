@@ -9,7 +9,7 @@ Some work is redone in this repository, to practice again and to have all code i
 [overview](https://neuefische.github.io/java-slides/)
 
 ### Protocol
-[protpcol](https://github.com/lindatroesken/protocol-rem-java-21-3)
+[protocol](https://github.com/lindatroesken/protocol-rem-java-21-3)
 
 ## First Week
 - Monday, 12.07.2021 - macOS, Shell basics, Git intro
