@@ -5,8 +5,11 @@ The bootcamp is a **fullstack web development course with java**.
 Most practices are done in small groups and the work is done in different repositories. 
 Some work is redone in this repository, to practice again and to have all code in one repo. Some other group-projects are linked in this README, as well as some excample-projects from teh course.
 
-# Presentation slides:
+### Presentation slides:
 [overview](https://neuefische.github.io/java-slides/)
+
+### Protocol
+[protpcol](https://github.com/lindatroesken/protocol-rem-java-21-3)
 
 ## First Week
 - Monday, 12.07.2021 - macOS, Shell basics, Git intro
