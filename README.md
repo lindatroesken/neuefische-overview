@@ -43,6 +43,8 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Di, 29.07.2021 - Student DB - Spring](https://github.com/jamarob/java-21-3-studentdb-web)
 - [Mi, 28.07.2021 - Orders with Server](https://github.com/christophersiem/java-21-3-orderdb-server)
 - [Mo, 02.08.2021 - ToDo Backend, Freitagsaufgabe](https://github.com/slautner/todo-app)
+- [Di, 03.08.2021 - JavaScript Intro](https://github.com/jamarob/java-21-3-js-intro)
+- [Di, 03.08.2021 - Codepen Beispiele](https://codepen.io/jamarob/pen/mdWyXLz?editors=0012)
 
 
 # Gruppenübungen
@@ -52,3 +54,5 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Generics in LinkedList, 29.7.21](https://github.com/lindatroesken/generics-linked-list)(Adriana, Drazen, Guillermo)
 - [Streams in OrderDB, 29.07.2021]()(Adriana, Drazen, Guillermo, Linda)
 - [ToDo Backend](https://github.com/Droggelbecher92/todo-app/tree/backendDev)(Tobias & Thomas & Sebastian & Linda)
+- [Frontend]
+- [JavaScript]  - Linda, Adriana, Kai, Drazen
