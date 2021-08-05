@@ -45,6 +45,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Mo, 02.08.2021 - ToDo Backend, Freitagsaufgabe](https://github.com/slautner/todo-app)
 - [Di, 03.08.2021 - JavaScript Intro](https://github.com/jamarob/java-21-3-js-intro)
 - [Di, 03.08.2021 - Codepen Beispiele](https://codepen.io/jamarob/pen/mdWyXLz?editors=0012)
+- [Mi, 04.08.2021 - React, Rick And Morty Frontend](https://github.com/jamarob/java-21-3-react-intro)
 
 
 # Gruppenübungen
