@@ -33,6 +33,18 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Do, 29.07.2021] - Generics, Enums, Streams
 - [Fr, 30.07.2021] - weekly practice: backend for todo
 
+## Fourth Week
+- [Mo, 02.08.21]
+- [Di, 03.08.21]
+- [Mi, 04.08.21]
+- [Do, 05.08.21]
+- [Fr, 06.08.21] - weekly practice: frontend for todo
+
+## Fith Week
+- [Mo, 09.08.21] - Type checking with PropTypes
+- [Di, 10.08.21] - Style Components, Conditional Rendering, React Router, 
+- [Mi, 11.08.21] - 
+
 # Beispiele
 - [Do, 15.07.2021 - Control Flow](https://github.com/jamarob/java-21-3-control-flow)
 - [Mo, 19.07.2021 - Passwordvalidation](https://github.com/jamarob/java-21-3-password-validation)
@@ -46,6 +58,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Di, 03.08.2021 - JavaScript Intro](https://github.com/jamarob/java-21-3-js-intro)
 - [Di, 03.08.2021 - Codepen Beispiele](https://codepen.io/jamarob/pen/mdWyXLz?editors=0012)
 - [Mi, 04.08.2021 - React, Rick And Morty Frontend](https://github.com/jamarob/java-21-3-react-intro)
+- [Di, 10.08.2021 - React Styled, React Routerm, Type checking with PropTypes](https://github.com/christophersiem/todo-app)
 
 
 # Gruppenübungen
@@ -55,5 +68,7 @@ Some work is redone in this repository, to practice again and to have all code i
 - [Generics in LinkedList, 29.7.21](https://github.com/lindatroesken/generics-linked-list)(Adriana, Drazen, Guillermo)
 - [Streams in OrderDB, 29.07.2021]()(Adriana, Drazen, Guillermo, Linda)
 - [ToDo Backend](https://github.com/Droggelbecher92/todo-app/tree/backendDev)(Tobias & Thomas & Sebastian & Linda)
-- [Frontend]
-- [JavaScript]  - Linda, Adriana, Kai, Drazen
+- [Frontend] 
+- [JavaScript]  - (Linda, Adriana, Kai, Drazen)
+- [To-Do-Frontend](https://github.com/lindatroesken/react-todoList-Frontend/tree/main/todo-app)(Alex, Guillermo, Linda, Robert)
+- [Frontend mit React: React Router (Single Page), Styled Components](https://github.com/lindatroesken/todo-app/tree/210810-styled-components) 
